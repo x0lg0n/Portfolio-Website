@@ -1,36 +1,83 @@
 <div align="center">
   <br />
-  <br />
-
   <h2 align="center">Personal Portfolio Website</h2>
 
-  A fully responsive personal portfolio website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
-
-  <a href="[(https://dev-pfolio.vercel.app/)]"><strong>➥ Live Demo</strong></a>
-
+  <p align="center">
+    A fully responsive personal portfolio website built with HTML, CSS, and JavaScript.
+    <br />
+    <a href="https://dev-pfolio.vercel.app/"><strong>View Live Demo »</strong></a>
+  </p>
 </div>
 
-<br />
+## 📋 Features
 
-### Prerequisites
+- Fully Responsive Layout
+- Modern Design
+- Interactive UI Elements
+- Cross-browser Compatible
+- Dark/Light Theme Toggle
+- Contact Form
+- Project Showcase Section
+- Skills & Experience Timeline
 
-Before you begin, ensure you have met the following requirements:
+## 🛠️ Technologies Used
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- Font Awesome Icons
+- Google Fonts
 
-### Run Locally
+## ⚙️ Prerequisites
 
-To run **Pfolio** locally, run this command on your git bash:
+Before you begin, ensure you have the following installed:
+* [Git](https://git-scm.com/downloads "Download Git")
+* A modern web browser
+* A code editor (VS Code recommended)
 
-Linux and macOS:
+## 🚀 Getting Started
 
+### Installation
+
+1. Clone the repository:
 ```bash
+# For Windows
+git clone https://github.com/codewithsadee/pfolio.git
+
+# For Linux and macOS
 sudo git clone https://github.com/codewithsadee/pfolio.git
 ```
 
-Windows:
-
+2. Navigate to the project directory:
 ```bash
-git clone https://github.com/codewithsadee/pfolio.git
+cd pfolio
 ```
+
+3. Open the project:
+- Open `index.html` in your browser to view the website
+- Or use a local development server
+
+## 📝 Customization
+
+1. Open `index.html` to modify the website content
+2. Update `assets/css/style.css` to change the styling
+3. Modify `assets/js/script.js` for custom functionality
+
+## 📸 Screenshots
+
+[Consider adding screenshots of key website sections here]
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## 📧 Contact
+
+Your Name - [your@email.com](mailto:your@email.com)
+
+Project Link: [https://github.com/codewithsadee/pfolio](https://github.com/codewithsadee/pfolio)
 
