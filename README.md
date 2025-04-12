@@ -15,7 +15,6 @@
 - Modern Design
 - Interactive UI Elements
 - Cross-browser Compatible
-- Dark/Light Theme Toggle
 - Contact Form
 - Project Showcase Section
 - Skills & Experience Timeline
@@ -77,7 +76,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📧 Contact
 
-Your Name - [your@email.com](mailto:your@email.com)
+Siddhartha Kunwar - [kumarsiddharthakain@gmail.com](mailto:kumarsiddharthakain@gmail.com)
 
-Project Link: [https://github.com/codewithsadee/pfolio](https://github.com/codewithsadee/pfolio)
+Project Link: [https://github.com/x0lg0n/Portfolio-Website](https://github.com/x0lg0n/Portfolio-Website)
 
